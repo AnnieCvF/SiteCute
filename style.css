@@ -1,0 +1,87 @@
+body{
+  background: rgb(169, 196, 243, 0.5);
+  color: blue;
+  font-size: 25px;
+  font-family: Srisakdi;
+}
+h1{
+  font-family: Srisakdi;
+  color: blue;
+  font-weight: lighter;
+}
+h2 {
+  font-family: Srisakdi;
+  color: pink;
+  font-weight: lighter;
+  font-size: 12px;
+}
+a {
+  color: white;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+
+p{
+  font-family: Srisakdi;
+}
+
+#banner{
+  text-align: center;
+  background-image: url("https://i.pinimg.com/originals/7f/18/e1/7f18e10b326d1a48bf29daf90b49fdf2.jpg");
+  background-size: cover;
+  padding: 150px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+#banner h1 {
+  color: white;
+  font-size: 50px;
+}
+#banner p {
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+#footer{
+  background-size: cover;
+  text-align: center;
+  padding: 30px;
+  background: rgb(169, 196, 243);
+  color: white;
+  margin: 0px;
+}
+.card{
+  padding: 50px;
+  font-weight: lighter;
+  text-align: center;
+}
+
+#footer a {
+  color: white;
+  font-size: 15px;
+}
+#footer a:hover {
+  color: white;
+}
+
+.row{
+  background-size: cover;
+  margin: 0px;
+}
+
+hr{
+  color: navy;
+}
+
+.video{
+  text-align: center;
+  padding: 30px;
+}
+
+.hr{
+  font-weight:  bold; ;
+  color: black;
+}
